@@ -1,12 +1,12 @@
 # ingenieria-en-inteligencia-artificial-parcial1
 # Proyecto: Chatbot de Soporte Integral - Mercado Libre 🚀
 
-## 📋 Descripción General
+##  Descripción General
 Este proyecto consiste en el desarrollo de un asistente virtual inteligente diseñado para integrarse en el ecosistema de **Mercado Libre**. El chatbot actúa como el primer punto de contacto para usuarios (compradores y vendedores), optimizando la resolución de dudas, el seguimiento de pedidos y la gestión de servicios financieros.
 
 ---
 
-## 🏢 Identificación de la Organización
+## Identificación de la Organización
 
 ### **Nombre de la Organización**
 **Mercado Libre S.R.L.**
@@ -23,7 +23,7 @@ Este proyecto consiste en el desarrollo de un asistente virtual inteligente dise
 
 ---
 
-## 🧠 L1.1: Ingeniería de Prompts (Estrategia del Modelo)
+##  L1.1: Ingeniería de Prompts (Estrategia del Modelo)
 
 Para este caso, se han diseñado prompts específicos que ajustan su estructura y contenido según el requerimiento informacional.
 
@@ -56,7 +56,7 @@ Ajuste de estructura para alimentar bases de datos o APIs de seguimiento.
 
 ---
 
-## ⚙️ Especificaciones Técnicas del Bot
+##  Especificaciones Técnicas del Bot
 * **Modelo Base:** GPT-4o / Gemini 1.5 Pro.
 * **Arquitectura:** RAG (Retrieval-Augmented Generation) para consultar bases de conocimiento internas.
 * **Flujos Principales:**
@@ -66,7 +66,7 @@ Ajuste de estructura para alimentar bases de datos o APIs de seguimiento.
 
 ---
 
-## 🛠️ Objetivos del Repositorio
+##  Objetivos del Repositorio
 * Documentar la lógica de conversación.
 * Centralizar los prompts optimizados para el caso Mercado Libre.
 * Establecer protocolos de escalada a agentes humanos.
