@@ -2,7 +2,7 @@
 # Proyecto: Chatbot de Soporte Integral - Mercado Libre 🚀
 
 ##  Descripción General
-<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/037db55f-4129-4206-873d-da616ae45532" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/037db55f-4129-4206-873d-da616ae45532" />
 
 Este proyecto consiste en el desarrollo de un asistente virtual inteligente diseñado para integrarse en el ecosistema de **Mercado Libre**. El chatbot actúa como el primer punto de contacto para usuarios (compradores y vendedores), optimizando la resolución de dudas, el seguimiento de pedidos y la gestión de servicios financieros.
 
