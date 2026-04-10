@@ -1,4 +1,8 @@
 # ingenieria-en-inteligencia-artificial-parcial1
+<<<<<<< HEAD
+
+=======
+>>>>>>> 8057d295ea702433102aa2fb7ad7ca01d5e91038
 # Proyecto: Chatbot de Soporte Integral - Mercado Libre 🚀
 
 ##  Descripción General
